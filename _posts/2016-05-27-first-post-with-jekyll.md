@@ -52,10 +52,13 @@ To use it I have to fork it and execute the commands on the page and copy my exi
 
 # Upload to github
 
-* Move your existing `blog` diractory
-* Create new `blog` github repository
-* Clone repository
-* Create branch `gh-pages`
-* Switch to `gh-pages` branch
-* Copy all files to cloned repo
-* Push to git hub
+First create new `blog` github repository
+
+```bash
+git clone https://github.com/ccguyka/blog.git
+# add all files to repository
+git add .
+git commit -m "some message"
+git push --set-upstream origin gh-pages
+```
+After that you have to wait some time until it's published on github.io.
