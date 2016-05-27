@@ -3,6 +3,7 @@ layout: post
 title: ready to start
 categories: [general]
 tags: [software craftmaship]
+fullview: true
 ---
 
 > A journey of a thousand miles begins with a single step.
