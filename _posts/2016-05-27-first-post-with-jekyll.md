@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post with jekyll on github
+categories: [general]
 tags: [jekyll, jekyll-compose, github]
 ---
 

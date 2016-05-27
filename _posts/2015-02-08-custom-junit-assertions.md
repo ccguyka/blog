@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Custom Junit assertions
-tags: [junit, hamcrest, assertj]
+categories: [java, development]
+tags: [java, junit, hamcrest, assertj]
 ---
 
 For some reasons it is not possible to assert several aspects of one object within one assert with [JUnit](https://github.com/junit-team/junit/wiki) or even with [Hamcrest](https://code.google.com/p/hamcrest/wiki/Tutorial). I know that a test case should only test one thing, which also can interpreted as one assert, but sometimes it is better to test more aspects of an object instead of duplicate code. e.g.  testing a user with name and gender variables, it is not possible to test them both so if one fails the other is still executed. In this article i will show some ways to solve this problem in a more or less elegant way. If there are some other (better) solution, please let me know! All code sample are available in [github](https://github.com/ccguyka/own-unit-test-assertions).

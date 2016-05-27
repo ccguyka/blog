@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Test exceptions
-tags: [junit, catch-exception]
+categories: [java, development]
+tags: [java, junit, catch-exception]
 ---
 
 Testing functionality that throws exceptions is quite easy using the expected annotation of [JUnit](https://github.com/junit-team/junit/wiki). But there are also other possibilities to test exceptions:

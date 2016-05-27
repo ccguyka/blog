@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ready to start
+categories: [general]
 tags: [software craftmaship]
 ---
 
