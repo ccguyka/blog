@@ -137,7 +137,7 @@ By default JGiven will create plain text output on console which can be disabled
 
 It is also possible to automatically create a HTMl report. The created report will be localted in folder `target/jgiven-reports/html`
 
-![jgiven-html-report](/assets/media/jgiven-html-report.png)
+![jgiven-html-report]({{site.baseurl}}/assets/media/jgiven-html-report.png)
 
 The HTML report has to be enabled in `pom.xml`.
 
