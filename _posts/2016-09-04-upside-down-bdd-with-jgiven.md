@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Upside down BDD with JGiven - part I
+categories: [java, development]
+tags: [java, junit, jgiven]
 ---
 
 BDD framworks like [Cucumber](https://cucumber.io/) are nice because in theory all tests could be defined by product owner using [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin). In practice this will never happen :-(
@@ -135,7 +137,7 @@ By default JGiven will create plain text output on console which can be disabled
 
 It is also possible to automatically create a HTMl report. The created report will be localted in folder `target/jgiven-reports/html`
 
-![jgiven-html-report]({{ site.url }}/assets/media/jgiven-html-report.png)
+![jgiven-html-report](/assets/media/jgiven-html-report.png)
 
 The HTML report has to be enabled in `pom.xml`.
 
