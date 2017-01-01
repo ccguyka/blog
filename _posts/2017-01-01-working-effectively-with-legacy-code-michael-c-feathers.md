@@ -5,7 +5,7 @@ categories: [java, development]
 tags: [java, testing, legacy]
 ---
 
-This is an article about the book `Working Effectively with Legacy Code` by Michael C. Feathers and my thougths about it.
+This is an article about the book `Working Effectively with Legacy Code` by Michael C. Feathers and my thoughts about it.
 
 # Legacy Code
 
