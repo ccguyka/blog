@@ -130,3 +130,7 @@ Results :
 
 Tests run: 10, Failures: 0, Errors: 0, Skipped: 7
 ```
+
+# Edit (2017/01/07)
+
+To have the code persisted I put the code to my [github](https://github.com/ccguyka/own-unit-test-assertions/blob/master/src/main/java/org/ccguyka/testwatcher/TopTenExecutionTimes.java) project.
